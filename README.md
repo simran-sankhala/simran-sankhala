@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![profile picture](https://media.tenor.com/B-UyWlKXI_oAAAAC/coding-how-to-sell-drugs-online-fast.gif)
+![profile picture](https://i.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.webp)
 
 - 🔭 I’m currently working as a Security Engineer
 - 📫 How to reach me: https://simransankhala.surge.sh
