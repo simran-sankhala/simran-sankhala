@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Simran  👋
 
 ![profile picture](https://i.giphy.com/media/jrnlTtQdMwdpzXs1l7/giphy.webp)
 
