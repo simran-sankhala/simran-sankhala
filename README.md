@@ -3,7 +3,6 @@
 ![profile picture](https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif)
 
 - 🔭 I’m currently working as a Security Engineer
-- 📫 How to reach me: https://simransankhala.surge.sh
 - 😄 Pronouns: She/Her
 
 
