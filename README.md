@@ -8,20 +8,6 @@
 
 
 ```golang
-package main
-
-import (
-	"os"
-	"text/template"
-)
-
-type Bio struct {
-	Name string
-	Experience string
-	Specialization string
-	Certifications string
-}
-
 func main() {
 	bio := Bio{
 		Name: "Simran Sankhala",
