@@ -3,7 +3,7 @@
 ![profile picture](https://media.tenor.com/Bpv9wTLKMskAAAAM/computer-nerds.gif)
 
 - 🔭 I’m currently working as a Security Engineer
-- 😄 Pronouns: She/Her
+
 
 
 ```golang
