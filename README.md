@@ -16,12 +16,10 @@
   ```css
   Simra@GitHub
   -----------------
-  Name: Simran
-  Languages: ["Python", "Bash", "JS"]
-  Intrests: ["Red Teaming", "Penetration Testing", "CTFs"]
-  OS: Arch x86_64  
-  Uptime: 26 Years
-
+  Name: ["Simran Sankhala"],
+  Experience: ["3+ years of experience"],
+  Specialization: ["Penetration Testing & Red Teaming"],
+  Certifications: ["OSCP, CRTP, CTIA"]
 ```
 
 
