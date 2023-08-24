@@ -12,5 +12,5 @@
   Role: ["Security Consultant"]
   Experience: ["3+ years of experience"]
   Specialization: ["Penetration Testing & Red Teaming"]
-  Certifications: ["OSCP, CRTP, CTIA", "Crest CPSA"]
+  Certifications: ["OSCP, CRTP, Crest CPSA, CTIA"]
 ```
