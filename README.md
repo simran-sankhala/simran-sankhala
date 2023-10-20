@@ -1,6 +1,5 @@
 ```css
-┌[Simran☮git]-(~)
-└> mefetch
+❯ mefetch
 ```
 
 <div style="display:block;text-align:left"><img align="left" src="https://raw.githubusercontent.com/simran-sankhala/simran-sankhala/main/arch.png" border="0" style="width:156px;">
