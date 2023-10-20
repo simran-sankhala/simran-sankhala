@@ -10,7 +10,7 @@
   -----------------
   Name: ["Simran Sankhala"]
   Role: ["Security Consultant"]
-  Experience: ["3+ years of experience"]
+  Experience: ["4+ years of experience"]
   Specialization: ["Penetration Testing & Red Teaming"]
-  Certifications: ["OSCP, CRTP, CREST CPSA, CTIA"]
+  Certifications: ["OSCP, CRTP, CREST CPSA, CREST CRT, CTIA"]
 ```
