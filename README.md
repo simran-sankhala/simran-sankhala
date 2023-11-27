@@ -15,4 +15,4 @@
 ```
 
 
-<img src="re.png" width="324" height="324">
+<img src="re.png" width="650" height="400">
