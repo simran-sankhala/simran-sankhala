@@ -14,4 +14,5 @@
   Certifications: ["OSCP, CRTP, CRTO, CREST CPSA, CREST CRT, CTIA"]
 ```
 
-![](re.png)
+
+<img src="re.png" width="324" height="324">
