@@ -13,9 +13,6 @@
   Specialization: ["Penetration Testing & Red Teaming"]
   Certifications: ["OSCP, CRTP, CRTO, CREST CPSA, CREST CRT, CTIA"]
 ```
-<p align="center">
-  <img src="re.png" width="350" height="350" alt="Centered Image">
-</p>
 
 
 
