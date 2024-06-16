@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Simran%2C+a+Security+Engineer;having+4+years+of+experience.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hi+i+am+Simran%2C+a+Security+Engineer.)](https://git.io/typing-svg)
 
 ```css
 ❯ mefetch
