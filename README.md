@@ -11,9 +11,9 @@
   -----------------
   Name: ["Simran Sankhala"]
   Role: ["Security Consultant"]
-  Experience: ["4+ years of experience"]
+  Experience: ["5+ years of experience"]
   Specialization: ["Penetration Testing & Red Teaming"]
-  Certifications: ["OSCP, CRTP, CRTO, CREST CPSA, CREST CRT, AWS Certified Cloud Practitioner, CTIA"]
+  Certifications: ["OSCP, CRTO, CREST CPSA, CREST CRT, AWS Certified Cloud Practitioner"]
 ```
 
 
