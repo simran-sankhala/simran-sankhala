@@ -8,8 +8,8 @@
   About@Me
   -----------------
   Name: ["Simran Sankhala"]
-  Role: ["Security Consultant"]
-  Experience: ["5+ years of experience"]
+  Role: ["Senior Security Consultant"]
+  Experience: ["6+ years of experience"]
   Specialization: ["Penetration Testing & Red Teaming"]
   Certifications: ["OSCP, CRTO, CREST CPSA, CREST CRT, AWS Certified Cloud Practitioner"]
 ```
